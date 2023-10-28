@@ -1,0 +1,33 @@
+# Carpeta de dependencias generadas por npm (Node.js)
+node_modules/
+
+# Carpeta de dependencias generadas por Composer (PHP)
+vendor/
+
+# Carpeta de dependencias generadas por pip (Python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpeta generada por Maven (Java)
+target/
+
+# Carpeta generada por Gradle (Java)
+build/
+
+# Carpeta generada por Visual Studio (C#/.NET)
+bin/
+obj/
+
+# Archivos específicos de sistemas operativos
+.DS_Store (macOS)
+Thumbs.db (Windows)
+
+# Archivos de configuración y secretos
+.env
+config.ini
+
+# Archivos de construcción y salida
+*.class (archivos de compilación Java)
+*.jar
